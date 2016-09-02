@@ -1,0 +1,22 @@
+.pdg{
+padding:3%;
+}
+.pd2{
+	padding-left:5%; 
+}
+.pdg{
+	padding-right: 5%;
+}
+.mg-l{
+	margin-left: 20%;
+}
+h2{
+	color: blue;
+	border: .08em solid white;
+	position: relative;
+	top: -50%;
+	right: 50%;
+}
+.img-blsa{
+	width: 100%;
+}

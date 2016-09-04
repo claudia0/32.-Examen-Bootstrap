@@ -1,0 +1,102 @@
+/* Tu CSS va aqui */
+header{ 
+	background-image: url("../img/header.jpg");
+	-webkit-filter:contrast(130%);
+	}
+
+.fondo{background-color: #F05F40;}
+
+span{color:#F05F40;}
+
+img{
+	
+	width: 100%;
+}
+
+nav a{
+	color: #fff;
+	border: none;
+}
+
+.navbar-default{
+	background-color:transparent; 
+	border: none !important;
+}
+
+.fondo-2{
+	background-color: #000;
+}
+
+h1,h2, p{
+	color: white;
+	margin-top: 40px;
+}
+hr{
+	width: 5%;
+	border: 1px solid #F05F40;
+}
+.btnn{
+	border-radius: 20px;/*aprendi que si usas el % se ovala tu boton y cpn px solo actua en la esquina*/
+	background-color: #F05F40;
+	padding: 1%;
+	color:white;
+	border:none;
+	margin-bottom: 25px;
+
+}
+.btnn-2{
+	background-color: whitoe;
+	color: black;
+	border-radius: 20px;
+	margin-bottom:25px;
+}
+
+.pdg{padding-bottom: 8%;}
+
+ }
+a.cca:hover { 
+    background-color: #F05F40;
+    opacity-color: #F05F40;
+}
+.ngo{color: black;}
+
+.no-mgn{
+	margin:0 !important;
+	padding: 0 !important;
+}
+span{
+	padding-left: 40%;
+	padding-right: 40%;
+	font-size: 300%;
+	
+}
+footer p{ 
+	color:black;
+	padding-left: 40%;
+	padding-right:40%; }
+}
+.fdo-1{
+	background-image:url("../img/1.jpg");
+	width: 200px;
+	height: auto;
+}
+
+.fdo-2{background-image:url("../img/2.jpg");}
+
+.fdo-3{background-image:url("../img/3.jpg");}
+
+.fdo-4{background-image:url("../img/4.jpg");}
+
+.fdo-5{background-image:url("../img/5.jpg");}
+
+.fdo-6{background-image:url("../img/6.jpg");}
+
+
+
+
+
+.fdo-rjo:hover{
+	opacity: 1;
+	background-color: #F05F40; 
+
+}

@@ -4,19 +4,47 @@ padding:3%;
 .pd2{
 	padding-left:5%; 
 }
-.pdg{
+.pg-r{
 	padding-right: 5%;
 }
 .mg-l{
 	margin-left: 20%;
 }
-h2{
-	color: blue;
-	border: .08em solid white;
-	position: relative;
-	top: -50%;
-	right: 50%;
+.mg-tp{
+	margin-top: 5%;
 }
-.img-blsa{
-	width: 100%;
+.pg-tp{
+	padding-top:5%;
 }
+h2 {
+	color: #DDDCDF;
+	border: .08em solid #DDDCDF;
+	padding: 1%;
+	margin-top: 10%;
+	margin-left: 20%;
+	margin-right:20%;
+}
+h3{
+	color: #DDDCDF;
+
+}
+	
+.bg-1{
+	background-image: url("../images/slider1.jpg");
+	height: 350px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.bg-2{
+	background-image: url("../images/client-bg.jpg");
+	height: 200px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.ig-2{
+	padding: 50% 10%;
+}
+	
+
+     
